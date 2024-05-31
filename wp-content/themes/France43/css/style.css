@@ -1809,7 +1809,7 @@ select:focus {
 }
 
 #footer-menu {
-	background: #868686;
+	background: #f57c7c;
 }
 
 #footer-menu > .inner {
@@ -2007,7 +2007,7 @@ select:focus {
 }
 
 #header {
-	background: linear-gradient(to bottom, #d81f32, #d91d30);
+	background: linear-gradient(to bottom, #f57c7c, #f57c7c);
 	z-index: 20;
 }
 
